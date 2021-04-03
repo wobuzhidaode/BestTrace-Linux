@@ -6,3 +6,10 @@ wget https://github.com/zhucaidan/BestTrace-Linux/raw/master/besttrace
 chmod +x besttrace
 
 ./besttrace -q1 -g cn IP
+ 
+ 
+wget https://cdn.ipip.net/17mon/besttrace4linux.zip
+
+unzip besttrace4linux.zip
+
+chmod +x besttrace
